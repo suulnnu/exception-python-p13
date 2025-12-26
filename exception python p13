@@ -1,0 +1,8 @@
+print("start:")
+print("exception handling with specific error type:")
+try:
+    print(15/0)
+except :
+        print("we can't divide the value with zero")
+        print("stop")
+        
